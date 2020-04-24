@@ -84,7 +84,7 @@ programmer_hash[:yukihiro_matsumoto] = :known_for => "Ruby" && :languages => ["L
         }
      }
 
-programmer_hash[:yukihiro_matsumoto]= {[:known_for] = "Ruby", [:languages] = ["LISP", "C"]}
+programmer_hash[:yukihiro_matsumoto] = {[:known_for] = "Ruby", [:languages] = ["LISP", "C"]}
 
 end
 
@@ -128,3 +128,4 @@ def adding_to_dennis
      }
 
 end
+end 
